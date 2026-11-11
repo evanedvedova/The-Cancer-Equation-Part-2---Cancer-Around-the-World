@@ -14,12 +14,6 @@ But how does this research landscape compare with the actual burden of cancer?
 
 Which cancer types affect the largest number of people? Are the most frequently diagnosed cancers also responsible for the highest number of deaths? And does the distribution of clinical research reflect these patterns?
 
-This project aims to answer these questions through three main perspectives:
-
- -Cancer incidence: Which cancer types account for the highest number of new cases worldwide?
- -Cancer mortality: Which cancer types cause the highest number of deaths?
-- Research activity: How does the distribution of clinical trials compare with the global cancer burden?
-
 The ultimate goal is to put clinical research into a broader context and explore the relationship between the burden of disease and the research efforts directed towards it.
 
 ---
@@ -48,11 +42,8 @@ https://github.com/evanedvedova/The-Cancer-Equation-Part-1-Trial-Types-and-Sites
 Part A – Clinical Research vs. Disease Burden
 
 The first part examines the absolute number of new cancer cases (incidence) and cancer-related deaths (mortality) across the leading cancer types worldwide.
-
 The objective is to identify the most common cancers and compare their contribution to global incidence and mortality.
-
 The distribution of clinical trials is then compared with the incidence and mortality patterns identified in Part A.
-
 This comparison helps highlight potential differences between the global burden of cancer and the distribution of clinical research activity.
 
 Part B – Distribution in countries
@@ -78,7 +69,7 @@ Secondly, let's use the data from part 1 to examine where clinical research acti
 To make data comparable, I am using the pbi file from part 1, using a slicer to zoom into the same year 2024.
 
 <img width="480" height="350" alt="obrazek" src="https://github.com/user-attachments/assets/a2dd12cc-37d8-498f-a071-78d98982369b" />
-Figure 2: Incidence and mortality for top 15 cancer sites in 2024, absolute numbers
+Figure 2: Number of Clinical Studies by Cancer Type, 2024
 
 The distribution suggests that breast cancer receives particularly high research attention, while lung, prostate and colorectal cancer also represent major areas of clinical investigation.
 
@@ -93,6 +84,18 @@ Prostate cancer is another interesting case. It ranks fourth in incidence but se
 The distribution of clinical research does not exactly mirror the distribution of cancer cases or deaths, however, we can appreciate that the top clinical study cancer types from 2024 were also on the top in incidence and mortality in the same year. The lung cancer with highest incidence and mortality may be a good target for more intensive research, nevertheless the relatively short survival time compared to other cancer types might be the technical obstacle behind lower number of clinical trials.
 
 However, the number of clinical trials alone cannot measure the actual resources invested in a disease, the quality of research or the availability of effective treatments. Here, it provides an indication of research activity rather than a complete measure of research effort.
+
+Next, let's have a look on the geographical distribution of cancer risk. The map  in Figure 3 
+shows the estimated cumulative risk of developing any cancer in 2024 (WHO/AIRC). Cumulative risk is the probability of
+being diagnosed between birth and age 74, expressed as a percentage, so countries with different age structures can be compared. 
+Risk is highest (25.4-41.0 %) in North America, Europe, Australia and Japan, and lowest in Africa, South Asia and the Middle East.
+
+<img width="4880" height="3120" alt="graphic-estimated-cumulative-risk-inc-both-sexes-age-0-84-in-2024-all-cancers" src="https://github.com/user-attachments/assets/80c51c91-b402-4534-9117-aaf588e0d10d" />
+Figure 3: Crude rate per 100 000, Incidence, Both sexes, in 2024
+
+The US leads in trials (about 45,000 studies), followed by China (about 17,000). The overlap with disease risk is only partial. Canada has nearly the same risk as the US but about one-sixth of its trials. China has the second-highest trial volume despite the lowest risk of the six. 
+
+Caveats: cumulative risk is per person, not total cases; high recorded risk partly reflects screening and registry quality; trial counts are not adjusted for population.
 
 ## 6. Limitations & Considerations
 
