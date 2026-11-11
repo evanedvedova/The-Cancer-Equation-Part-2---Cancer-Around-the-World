@@ -67,14 +67,12 @@ First, let's have a look on cancer types around the world in Figure 1. The graph
 Figure 1: Incidence and mortality for top 15 cancer sites in 2024, absolute numbers
 
 Lung cancer ranks first in both incidence and mortality, with approximately 2.5 million new cases and 1.8 million deaths. 
-It therefore represents a particularly significant global health challenge, with a substantial number of deaths relative to new diagnoses.
+It therefore represents a particularly significant global health challenge.
 
 Breast cancer ranks second in incidence, with approximately 2.3 million new cases. However, its mortality is considerably lower, 
 at around 670,000 deaths. This illustrates that the cancer types with the highest incidence do not necessarily have the highest mortality.
 
-Colorectal cancer ranks third in both incidence and mortality, highlighting its considerable contribution to the global cancer burden.
-
-Prostate cancer also stands out on fourth position, ranking among the most frequently diagnosed cancers, while its mortality is considerably lower than its incidence.
+Colorectal cancer ranks third in both incidence and mortality, followed by prostate cancer, highlighting their considerable contribution to the global cancer burden.
 
 Secondly, let's use the data from part 1 to examine where clinical research activity is concentrated. 
 To make data comparable, I am using the pbi file from part 1, using a slicer to zoom into the same year 2024.
@@ -82,15 +80,19 @@ To make data comparable, I am using the pbi file from part 1, using a slicer to 
 <img width="480" height="350" alt="obrazek" src="https://github.com/user-attachments/assets/a2dd12cc-37d8-498f-a071-78d98982369b" />
 Figure 2: Incidence and mortality for top 15 cancer sites in 2024, absolute numbers
 
-Breast cancer dominates the clinical trial landscape, with approximately 960 studies, making it the most frequently studied cancer type in this selection.
+The distribution suggests that breast cancer receives particularly high research attention, while lung, prostate and colorectal cancer also represent major areas of clinical investigation.
 
-Prostate cancer follows with approximately 440 studies, while colorectal cancer ranks third with around 370 studies.
+Comparison of Figures 1 and 2 reveals that breast cancer ranks second in global incidence but first by a considerable margin in clinical trial activity. This suggests a particularly strong research focus on breast cancer, mirrored with a high need. 
 
-Lung cancer and non-small cell lung cancer also feature prominently, followed by ovarian cancer.
+Lung cancer presents a different picture. It ranks first in both incidence and mortality, yet its clinical trial activity is lower than that of breast cancer.
 
-The distribution suggests that breast cancer receives particularly high research attention, while prostate and colorectal cancer also represent major areas of clinical investigation.
+Colorectal cancer shows a relatively consistent position across both analyses, ranking third in incidence and clinical trial activity.
 
+Prostate cancer is another interesting case. It ranks fourth in incidence but second in clinical trial activity, suggesting research attention beyond what its incidence ranking alone might indicate.
 
+The distribution of clinical research does not exactly mirror the distribution of cancer cases or deaths, however, we can appreciate that the top clinical study cancer types from 2024 were also on the top in incidence and mortality in the same year. The lung cancer with highest incidence and mortality may be a good target for more intensive research, nevertheless the relatively short survival time compared to other cancer types might be the technical obstacle behind lower number of clinical trials.
+
+However, the number of clinical trials alone cannot measure the actual resources invested in a disease, the quality of research or the availability of effective treatments. Here, it provides an indication of research activity rather than a complete measure of research effort.
 
 ## 6. Limitations & Considerations
 
