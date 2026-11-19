@@ -98,12 +98,31 @@ The US leads in trials (about 45,000 studies), followed by China (about 17,000).
 Caveats: cumulative risk is per person, not total cases; high recorded risk partly reflects screening and registry quality; trial counts are not adjusted for population.
 
 ## 6. Limitations & Considerations
+A few considerations are important when interpreting the results:
 
+Absolute numbers vs. incidence rates: The charts show absolute numbers of cases and deaths, not population-adjusted incidence or mortality rates. Countries with larger populations may naturally contribute more cases.
+
+Incidence vs. mortality: Deaths recorded in a given year do not necessarily correspond to people diagnosed in that same year. Therefore, mortality-to-incidence comparisons should not be interpreted as survival or case-fatality rates.
+
+Clinical trial classification: Cancer categories may overlap. For example, lung cancer and non-small cell lung cancer are not entirely independent disease categories.
+
+Clinical trial counts: The number of studies does not reflect their size, funding, duration, quality or number of participants.
+
+Data comparability: Cancer estimates and clinical trial records are produced using different methodologies, so comparisons should be interpreted as exploratory rather than causal.
 
 ---
 
 
 
 ## 8. Conclusion
+This analysis highlights several important differences between the global burden of cancer and the distribution of clinical research.
 
+Lung cancer remains the leading contributor to both incidence and mortality, while breast cancer has the highest clinical trial activity among the selected cancer types.
 
+Colorectal and prostate cancer also demonstrate substantial research activity, although their relative positions differ when compared with incidence and mortality.
+
+The comparison raises an interesting question: Are we directing research efforts towards the cancers that create the greatest global health burden, or are other factors also shaping the research landscape?
+
+This project provides an initial overview of the relationship between cancer burden and clinical research. Further analysis of geographical differences, incidence rates and research trends over time could provide a deeper understanding of this relationship.
+
+The key takeaway: Understanding where cancer occurs, how many people it affects and where research is concentrated is an important step towards understanding the global fight against cancer.
